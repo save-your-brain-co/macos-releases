@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Relay Updates</title>
+        <link>https://github.com/save-your-brain-co/macos-releases</link>
+        <description>Relay app updates</description>
+        <language>en</language>
+        <item>
+            <title>Version 0.0.2</title>
+            <pubDate>Wed, 08 Apr 2026 18:31:07 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/save-your-brain-co/macos-releases/releases/download/v0.0.2/Relay-0.0.2.dmg"
+                length="2463202"
+                type="application/octet-stream"
+                sparkle:edSignature="EqRQ3mpp+xPJXVUTymKmSEoG/Qs/XOWKKSRgj7L1Oe0tt2QdrKbVyx1Sb8pEthsmIYNDxWfFW5NocbaMOuoiCA=="
+            />
+        </item>
+    </channel>
+</rss>
